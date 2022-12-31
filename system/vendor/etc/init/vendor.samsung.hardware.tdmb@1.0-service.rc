@@ -1,0 +1,4 @@
+service tdmb-hal-service /vendor/bin/hw/vendor.samsung.hardware.tdmb@1.0-service
+    class hal
+    user system
+    group system

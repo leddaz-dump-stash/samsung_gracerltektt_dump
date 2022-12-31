@@ -1,0 +1,6 @@
+/system/preload/SmartSwitch/SmartSwitch.apk
+/system/preload/DaumEdgeSports/DaumEdgeSports.apk
+/system/preload/DaumEdgeNews/DaumEdgeNews.apk
+/system/preload/DaumEdgeKakao/DaumEdgeKakao.apk
+/system/preload/NaverV_N/NaverV_N.apk
+/system/preload/NaverTV_N/NaverTV_N.apk
