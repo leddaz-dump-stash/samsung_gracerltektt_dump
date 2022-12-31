@@ -1,0 +1,14 @@
+# gracerltektt-user 9 PPR1.180610.011 N935KKKU4CVG1 release-keys
+- manufacturer: samsung
+- platform: 
+- codename: gracerltektt
+- flavor: gracerltektt-user
+- release: 9
+- id: PPR1.180610.011
+- incremental: N935KKKU4CVG1
+- tags: release-keys
+- fingerprint: samsung/gracerltektt/gracerltektt:9/PPR1.180610.011/N935KKKU4CVG1:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: gracerltektt-user-9-PPR1.180610.011-N935KKKU4CVG1-release-keys
+- repo: samsung_gracerltektt_dump
